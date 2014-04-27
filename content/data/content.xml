@@ -1,0 +1,709 @@
+<zuiprezi>
+  <version>10</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-44854.30216419624" y="-20990.776041485413" width="95090.90432839248" height="80733.75208297082"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+      <mode type="normal"/>
+    </settings>
+    <object id="17_81106081" type="button" x="2691.15" y="19376.1" r="0" s="134.55625347161805" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>706.6666666666667</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="0_24309637" type="button" x="-1.8189894035458565e-12" y="7.275957614183426e-12" r="-4.094015234488552e-17" s="10.435245234919053" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>blank-quick</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="0" type="image" x="3858.8500000000013" y="-1002.6999999999935" r="6.433833561011312e-17" s="26.560869231231614">
+      <source w="85" h="127">1718891332<url>1718891332.png</url></source>
+      <sourceUrl>bald_scientist.png</sourceUrl>
+    <resource><id>1718891332</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/e/a/44fe54b98d64e571118537aa21a5a3b9e9997.png</url></resource></object>
+    <object id="2" type="button" x="29309.049999999996" y="12732.400000000016" r="-6.349669553158917e-17" s="26.912929946805654" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>714.2045454545455</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="1" type="image" x="29309.049999999996" y="12732.400000000016" r="0" s="12.888880344451755">
+      <source w="1400" h="1200">1718900941<url>1718900941.png</url></source>
+      <sourceUrl>demon.png</sourceUrl>
+    <resource><id>1718900941</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/8/7/e187f396e9fe790cad4fda562216b636bc053.png</url></resource></object>
+    <object id="6" type="button" x="-9181.749999999995" y="13882" r="0" s="13.722153699440188" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="5" type="image" x="-13316.099999999993" y="13279.849999999999" r="0" s="5.023872321334065">
+      <source w="280" h="807">1718907337<url>1718907337.png</url></source>
+      <sourceUrl>computer.png</sourceUrl>
+    <resource><id>1718907337</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/a/f/ca919c52190d4e2a66f3d6d052992ceaa492e.png</url></resource></object>
+    <object id="1_81106081" type="image" x="14711.150000000005" y="7.275957614183426e-12" r="0" s="22.175306294152907">
+      <source w="865" h="884">1719495586<url>1719495586.png</url></source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/media/4/2/b/8b504d201fdadaf502482c5b6ab819e760143.png</sourceUrl>
+    <resource><id>1719495586</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/2/b/8b504d201fdadaf502482c5b6ab819e760143.png</url></resource></object>
+    <object id="12_4" type="text" x="-36.58137070263729" y="-1788.1636275460805" r="-7.428224364258022e-17" s="23.005257177177374" class="strong">
+      <height>55.1953125</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Gate of Gabethulu: Launcher & Game]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="0_24309637"/>
+      </layout>
+    </object>
+    <object id="25_4" type="text" x="-38.44999999999527" y="942.2500000000036" r="0" s="13.273917276736109" class="body">
+      <height>248.37890625</height>
+      <width>390.9237784827681</width>
+      <p>
+        <text weight="bold"><![CDATA[Our project is ultimately separated into two aspects that needed to be modularized separately to create the best high cohesion, low coupling results. We used Object Oriented Design to perform this task, but got the idea to separate the two aspects from Jackon's Technique.]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="0_24309637"/>
+      </layout>
+    </object>
+    <object id="3" type="shape" x="-6549.123822862597" y="5490.812097912305" r="-51.993904954154594" s="31.999999999999993" class="line3">
+      <geom type="arrow">
+        <sp>137.36322552987698 22.105360419577607</sp>
+        <ep>-137.36322552987698 22.105360419577543</ep>
+        <b>44.21072083915515</b>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="7" type="button" x="9126.700000000003" y="13881.850000000008" r="7.250879749268249e-17" s="11.78396400014609" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="8" type="text" x="-9180.699999999995" y="10736.750000000004" r="5.203324697790273e-17" s="32.84211956676523" class="strong">
+      <height>27.59765625</height>
+      <width>-108.0234375</width>
+      <p>
+        <text><![CDATA[Launcher]]></text>
+      </p>
+    </object>
+    <object id="18" type="image" x="10999.900000000003" y="9502.200000000008" r="0" s="62.80949872737356">
+      <source w="89" h="38">1719002860<url>1719002860.png</url></source>
+      <sourceUrl>chestsheet.png</sourceUrl>
+    <resource><id>1719002860</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/9/c/4610d046df2bc0d03dee6bef11bbec29067cc.png</url></resource></object>
+    <object id="9" type="text" x="9126.75" y="11058.300000000014" r="5.203324697790273e-17" s="32.84211956676523" class="strong">
+      <height>27.59765625</height>
+      <width>-66.703125</width>
+      <p>
+        <text><![CDATA[Game]]></text>
+      </p>
+    </object>
+    <object id="10" type="text" x="29525.399999999987" y="12054.300000000007" r="0" s="85.18400000000005" class="head">
+      <height>27.59765625</height>
+      <width>213.1517481294426</width>
+      <p>
+        <text><![CDATA[Gate of Gabethulu]]></text>
+      </p>
+    </object>
+    <object id="11" type="shape" x="5620.740213079828" y="6604.748883650547" r="54.15483901570681" s="31.999999999999982" class="line3">
+      <geom type="arrow">
+        <sp>-143.15501584349292 29.68591856248254</sp>
+        <ep>143.1550158434929 29.68591856248254</ep>
+        <b>-59.37183712496508</b>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="12" type="text" x="-8880.549999999994" y="14194.95" r="-4.8547787462934864e-17" s="17.599999999999998" class="head">
+      <height>303.57421875</height>
+      <width>363.5389116442523</width>
+      <p>
+        <text><![CDATA[The launcher was the largest portion of our project, and we controlled all aspects of modularization for it. We were able to modularize the launcher into the following big ideas using the Object Oriented Approach:]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Account Information & The Launcher's Appearance]]></text>
+      </p>
+    </object>
+    <object id="13" type="text" x="9372.7" y="14151.14999999999" r="0" s="16" class="head">
+      <height>303.57421875</height>
+      <width>357.3046875</width>
+      <p>
+        <text><![CDATA[Due to the splitting of our project into two major components, we allowed the Unity Game engine to control a decent amount of our modularization for this portion of our assignment. The combined effort from unity and ourselves led to an incredibly modularized game with high cohesion and low coupling. ]]></text>
+      </p>
+    </object>
+    <object id="15" type="button" x="10440.249999999996" y="27667.950000000004" r="0" s="17.00339096232523" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="16" type="button" x="-17594.400000000016" y="26654.950000000004" r="0" s="13.143017127676902" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="17" type="button" x="-12080.599999999997" y="40936.59999999999" r="6.429857874348968e-17" s="13.288646126321522" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="19" type="image" x="-18214.050000000003" y="30125.050000000007" r="0" s="11.415285419728264">
+      <source w="642" h="147">1719005164<url>1719005164.PNG</url></source>
+      <sourceUrl>Cars.PNG</sourceUrl>
+    <resource><id>1719005164</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/0/d/e5ea51c2e2427503f103d20fe264d75f4a554.PNG</url></resource></object>
+    <object id="20" type="image" x="12471.05" y="30831.75" r="-24.697323784304018" s="26.42325549127109">
+      <source w="207" h="144">1719006019<url>1719006019.PNG</url></source>
+      <sourceUrl>NewsCar.PNG</sourceUrl>
+    <resource><id>1719006019</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/b/5/5473038825d79b7b9ebcc290e9faa86303aee.PNG</url></resource></object>
+    <object id="21" type="image" x="-8836.499999999995" y="26655.200000000008" r="-6.092651522512881e-17" s="56.09649960713616">
+      <source w="85" h="127">1719008002<url>1719008002.png</url></source>
+      <sourceUrl>butler.png</sourceUrl>
+    <resource><id>1719008002</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/0/a/d6f2e7ecadc6885250ab5bffaeb61f6a77693.png</url></resource></object>
+    <object id="22" type="image" x="2582.650000000004" y="12734.10000000001" r="-4.1409989698240945e-17" s="82.53477632562166">
+      <source w="85" h="127">1719010126<url>1719010126.png</url></source>
+      <sourceUrl>maid.png</sourceUrl>
+    <resource><id>1719010126</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/5/1/28b692c03137cc43a76d3b709d523e16d4378.png</url></resource></object>
+    <object id="23" type="shape" x="-17346.115711155187" y="17883.669912125486" r="-41.96133428632945" s="65.30612244897962" class="line3">
+      <geom type="arrow">
+        <sp>54.3280899024715 29.10762668080368</sp>
+        <ep>-54.32808990247151 29.10762668080365</ep>
+        <b>58.215253361607324</b>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="24" type="shape" x="-2905.5171911899743" y="19142.20392987665" r="34.87429021927325" s="65.30612244897958" class="line3">
+      <geom type="arrow">
+        <sp>-54.155017918888454 20.422091076805263</sp>
+        <ep>54.15501791888845 20.42209107680526</ep>
+        <b>-40.84418215361052</b>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="25" type="shape" x="10201.658159841687" y="20784.495881589755" r="90" s="46.64723032069974" class="line3">
+      <geom type="arrow">
+        <sp>-42 0</sp>
+        <ep>42 0</ep>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="0_81106081" type="text" x="-17432" y="23697.750000000007" r="0" s="36.74241538476637" class="strong">
+      <height>55.1953125</height>
+      <width>193.34765625</width>
+      <p align="center">
+        <text><![CDATA[Account Information]]></text>
+      </p>
+    </object>
+    <object id="2_81106081" type="text" x="-12081.299999999997" y="37260.6" r="0" s="27.6051204994488" class="strong">
+      <height>55.1953125</height>
+      <width>133.1677379144514</width>
+      <p align="center">
+        <text><![CDATA[Player information]]></text>
+      </p>
+    </object>
+    <object id="3_81106081" type="button" x="-26283.550000000003" y="39379.59999999999" r="0" s="15.968122428196516" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="4_81106081" type="text" x="-26287.002147216845" y="36096.5095920924" r="0" s="48.084147257700984" class="strong">
+      <height>55.1953125</height>
+      <width>140.78942072025407</width>
+      <p align="center">
+        <text><![CDATA[Customer Information]]></text>
+      </p>
+    </object>
+    <object id="5_81106081" type="button" x="-2082.7000000000007" y="26954.25" r="7.08368565747827e-17" s="12.062097341171786" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="6_81106081" type="text" x="-2085.4499999999935" y="24547.35" r="0" s="48.084147257700984" class="strong">
+      <height>55.1953125</height>
+      <width>182.73046875</width>
+      <p align="center">
+        <text><![CDATA[Launcher Appearance]]></text>
+      </p>
+    </object>
+    <object id="7_81106081" type="shape" x="-24301.618269409388" y="31917.209645923856" r="-41.961334286329524" s="63.999999999999964" class="line3">
+      <geom type="arrow">
+        <sp>51.728931985554325 -12.160730311551605</sp>
+        <ep>-51.728931985554325 -12.16073031155163</ep>
+        <b>-24.321460623103235</b>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="9_81106081" type="shape" x="-15167.34959571" y="33911.01199211046" r="99.05681838584461" s="63.99999999999994" class="line3">
+      <geom type="arrow">
+        <sp>-49.364411485880545 -5.614920201751342</sp>
+        <ep>49.364411485880545 -5.614920201751342</ep>
+        <b>11.229840403502685</b>
+        <t>10</t>
+      </geom>
+    </object>
+    <object id="10_81106081" type="text" x="-27184.850000000028" y="40192.381250000035" r="0" s="16" class="body">
+      <height>303.57421875</height>
+      <width>440.49992905369703</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[private String firstName;]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[private String middleName;]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[private String lastName;]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[private String suffix;]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[private String eMailAddr;]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[private String userName;]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[private String passwdHash;]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[private char gender;]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[private BillingAddress customerAddress;]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[private Player customerPlayer;]]></text>
+      </p>
+    </object>
+    <object id="11_81106081" type="text" x="-12130.9554202038" y="41304.15025746027" r="0" s="13.223140495867765" class="body">
+      <height>413.96484375</height>
+      <width>438.0202491179374</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[private int totalKills;]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[private int totalDeaths;]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[private String totalPlayTime;]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[private int attack;]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[private int defense;]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[private int speed;]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[private int vitality;]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[private int exp;]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[private char gender;]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[private String lastServerUsed;]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[private Item item1; ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[private Item item2;]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[private Item item3;]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[private Item item4;]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[private Item item5;]]></text>
+      </p>
+    </object>
+    <object id="12_81106081" type="text" x="-17638.15000000001" y="25749.25" r="0" s="16" class="body">
+      <height>110.390625</height>
+      <width>393.5625</width>
+      <p>
+        <text><![CDATA[Account information was able to be modularized into the two separate ideas of the Customer Information and Player Information.]]></text>
+      </p>
+    </object>
+    <object id="13_81106081" type="text" x="-2056.599999999995" y="26997.450000000008" r="0" s="16" class="body">
+      <height>137.98828125</height>
+      <width>393.1171875</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Created buttons and other GUI attributes in Visual Studios.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[We managed the methods for what happens when each attribute is interacted with.]]></text>
+      </p>
+    </object>
+    <object id="14_81106081" type="text" x="10781.450000000003" y="23483.800000000003" r="0" s="32" class="strong">
+      <height>82.79296875</height>
+      <width>216.08203125</width>
+      <p>
+        <text><![CDATA[How the Game was modularized:]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="15_81106081" type="text" x="11244.95" y="27098.768741889216" r="0" s="21.856430571682257" class="body">
+      <height>220.78125</height>
+      <width>470.90625</width>
+      <p>
+        <text><![CDATA[Unity utilizes an entity component system. Components are a self-contained piece of functionality that can be added to any object. Items can be categorized by how they interact with the environment, players, enemies, and other items, and this is how Unity modularizes the components in the game. ]]></text>
+      </p>
+    </object>
+  </zui-table>
+  <path>
+    <s>
+      <eagle o="17_81106081"/>
+    </s>
+    <s>
+      <eagle o="1"/>
+    </s>
+    <s>
+      <eagle o="0_24309637"/>
+    </s>
+    <s>
+      <eagle o="6"/>
+    </s>
+    <s>
+      <eagle o="16"/>
+    </s>
+    <s>
+      <eagle o="3_81106081"/>
+    </s>
+    <s>
+      <eagle o="19"/>
+    </s>
+    <s>
+      <eagle o="17"/>
+    </s>
+    <s>
+      <eagle o="6"/>
+    </s>
+    <s>
+      <eagle o="5_81106081"/>
+    </s>
+    <s>
+      <eagle o="0_24309637"/>
+    </s>
+    <s>
+      <eagle o="7"/>
+    </s>
+    <s>
+      <eagle o="15"/>
+    </s>
+    <s>
+      <eagle o="2"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('Arimo-Regular.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-Bold.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: normal;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-BoldItalic.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: italic;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-Italic.keg');
+	fontFamily: undefined;
+	font-class: undefined;
+	font-style: italic;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+.line1
+{
+	color: #1b1d1e;
+	gradEndColor: #1b1d1e;
+	gradStartColor: #1b1d1e;
+}
+
+.line2
+{
+	color: #962d3e;
+	gradEndColor: #962d3e;
+	gradStartColor: #962d3e;
+}
+
+.line3
+{
+	color: #fd9200;
+	gradEndColor: #fd9200;
+	gradStartColor: #fd9200;
+}
+
+.line4
+{
+	color: #424e4f;
+	gradEndColor: #424e4f;
+	gradStartColor: #424e4f;
+}
+
+.line5
+{
+	color: #5e6d70;
+	gradEndColor: #5e6d70;
+	gradStartColor: #5e6d70;
+}
+
+.poly1
+{
+	color: #f1433f;
+	gradEndColor: #1b1d1e;
+	gradStartColor: #1b1d1e;
+}
+
+.poly2
+{
+	color: #f1433f;
+	gradEndColor: #962d3e;
+	gradStartColor: #962d3e;
+}
+
+.poly3
+{
+	color: #f1433f;
+	gradEndColor: #fd9200;
+	gradStartColor: #fd9200;
+}
+
+.poly4
+{
+	color: #f1433f;
+	gradEndColor: #424e4f;
+	gradStartColor: #424e4f;
+}
+
+.poly5
+{
+	color: #f1433f;
+	gradEndColor: #5e6d70;
+	gradStartColor: #5e6d70;
+}
+
+Background
+{
+	gradEnd: #f1433f;
+	gradStart: #f1433f;
+}
+
+Grid
+{
+	color: #b1312e;
+}
+
+ZArrow
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	thickness: 10;
+}
+
+ZCircle
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #fff;
+}
+
+ZFrame.bracket
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #1b1d1e;
+	gradStartAlpha: 1;
+	gradStartColor: #1b1d1e;
+	thickness: 8;
+}
+
+ZFrame.circle
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #982b3d;
+	gradStartAlpha: 1;
+	gradStartColor: #982b3d;
+	thickness: 8;
+}
+
+ZFrame.roundrect
+{
+	borderAlpha: 1;
+	borderColor: #1b1d1e;
+	borderThickness: 5;
+	gradEndAlpha: 0.6;
+	gradEndColor: #5e6d70;
+	gradStartAlpha: 0.6;
+	gradStartColor: #5e6d70;
+	radius: 1;
+	thickness: 3;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #fff;
+	fontFamily: body;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.8;
+	background-color: #1b1d1e;
+	background-padding: 5;
+}
+
+ZLabel.head
+{
+	color: #fff;
+	fontFamily: head;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 0.8;
+	background-color: #ff8007;
+	background-padding: 5;
+}
+
+ZLabel.strong
+{
+	color: #511f27;
+	fontFamily: strong;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.8;
+	background-color: #2ddbe5;
+	background-padding: 5;
+}
+
+ZLine
+{
+	color: #fff;
+}
+
+ZMarker
+{
+	alpha: .65;
+	color: #00f1ff;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #333;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #333;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #333;
+	radius: 8;
+}
+
+ZPoly
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	radius: 0;
+	thickness: 100;
+}
+
+]]></style>
+  <hash>5519573d</hash>
+<sync><oid>nyhn6eplmucc</oid><title>gate-of-gabethulu-launcher-game</title><hash>5519573d</hash></sync><config>jURyYieQJ2ZhbVu+vXb1z9UhHM85BvmaQn47mXzeROVjyfY7xYNJU2eSFD8HSf023EpAsqUWZktlsNj6MBCEtBzExqiLJ9Xiv+ZONRwXRbYIA2LWoEVK+T9sB2HoLtbC57XVD9SKik9Emfow4TeO7HIhxVCRupoXBpNL11spuYbAMN/ZvmYYXrvEch/jcdtUuDkfJnoHnwURx6PGY+TAiFZPj3JKXWWsihA5JCckqbV49e3yNDntbNapuqXGkLhI99uGB6+Tyqk2xsafeQgeyaEvIQxRdp/+hdcnYLClSWX5dkfUBmYvwxew7kAF5fPJ6DVCpNshT5aVSHSHI4GUHA==</config></zuiprezi>
