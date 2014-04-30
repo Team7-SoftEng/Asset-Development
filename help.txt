@@ -1,0 +1,39 @@
+STARING THE GAME:
+	1. Open the launcher file
+	2. Sign in to an existing account or create a new account
+	3. Click the play button to enter the game.
+	4. Enjoy! 
+
+QUALITY NOTES
+		* The game launches at a user-chosen resolution.To change that resolution (as low as 512x384 for slower computers/video cards, higher for better cards) or play in windowed mode, select the preferred settings at game startup.
+CONTROLS
+Player Controls
+	Note: Keys are configurable to allow for user preferences in start up window under input.
+	W/S or Up Arrow/Down Arrow: Move Forwards/Backwards
+	A/D or Left Arrow/Right Arrow: Move Left/Right
+	E: Pick up a weapon or health from a chest
+	K:Rotate weapon clockwise
+	J:Rotate weapon counter-clockwise
+	Spacebar- Fire ranged weapon
+	1,2,3,4,5: Equip weapon that is in corresponding inventory slot
+	Esc: Exit tutorial text
+	
+Other:
+	To open a Chest: Coming into contact with an unopened chest with the main character will open the chest and reveal its contents.
+
+ON-SCREEN DISPLAYS	
+	Player Name: Player's username is displayed above the character
+	Player Health: Player's current health. Player health is displayed as a bar above the character. When full, the bar will be green and will be reduced as the player sustains damage.
+	Inventory: (top right) A 5 slot inventory, beginning at the top with slot 1, then slot 2, etc. (See Controls on how to switch inventory slots)
+	
+	Boss Names: Boss enemies will also have their name displayed above them.
+
+ACCOUNT HELP
+For assisstance related to creating an account or signing into an account, please email gateofgabethuluhelp@gmail.com
+
+ONLINE HELP
+For further help with the game, please contact our support team at gateofgabethuluhelp@gmail.com
+
+BUG REPORTS
+Send problem reports to gogbugs@gmail.com. Please include a complete description of the problem, including but not limited to screenshots.	  
+	
